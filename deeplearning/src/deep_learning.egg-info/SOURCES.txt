@@ -8,5 +8,10 @@ src/deepmlapp/__init__.py
 src/deepmlapp/configurations/__init__.py
 src/deepmlapp/configurations/conf.py
 src/deepmlapp/utils/__init__.py
+src/deepmlapp/utils/callbacksdemo.py
 src/deepmlapp/utils/cnn_demo.py
+src/deepmlapp/utils/exp_tracker.py
+src/deepmlapp/utils/mlflow_client.py
 src/deepmlapp/utils/simplenn.py
+src/deepmlapp/utils/test_onnx.py
+src/deepmlapp/utils/test_tritonserver.py
